@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-1: Implement User Registration Page" 
+"This task involves creating a registration form with two flows: one for lawyers and one for clients. The form will include input fields, validation, real-time selfie upload, and API-based verification for NID and (for lawyers) advocate license number." 
+"**Status: Implemented**" 
+"" 
